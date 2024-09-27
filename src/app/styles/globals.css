@@ -1,0 +1,38 @@
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --PaleBlue: hsl(243, 100%, 93%);
+  --GrayishBlue: hsl(229, 7%, 55%);
+  --DarkBlue: hsl(228, 56%, 26%);
+  --VeryDarkBlue: hsl(229, 57%, 11%);
+  --Gradient: hsl(6, 100%, 80%) to hsl(335, 100%, 65%);
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  min-height: 100vh;
+  background-color: var(--VeryDarkBlue);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border: none;
+  text-decoration: none;
+}
+
+a {
+  color: var(--foreground);
+}
