@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Armazenamento de dados
 
-## Getting Started
+![armazenamento-de-dados](https://github.com/user-attachments/assets/7adf573b-22d9-4216-bc0a-997055be08ab)
 
-First, run the development server:
+## 🎯 Introdução
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Desenvolvido um projeto de armazenamento de dados simples estando responsivo a diversos dispositivos, desafio feito no <a href='https://www.frontendmentor.io/home'>frontend mentor</a>.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ⚙️ Acessar o projeto
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+ir direto na barra de endereço do navegador acima e colocar o seguinte endereço <code><a href='https://armazenamento-de-dados.vercel.app/'>https://armazenamento-de-dados.vercel.app/</a></code>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚒️ Tecnologias utilizadas
 
-## Learn More
+<div>
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='logo do HTML'/>
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='logo do CSS'/>
+  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='logo do JAVASCRIPT'/>
+  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='logo do NEXT JS'/>
+</div>
 
-To learn more about Next.js, take a look at the following resources:
+## 👨‍💻 Autores / Colaboradores
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **João Vitor** - frontend do projeto - [João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-souza-28297632a)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📃 Licensa
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Este projeto está sob a licensa [MIT](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)
