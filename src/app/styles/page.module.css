@@ -132,6 +132,7 @@
 
 .message p {
   margin: 0;
+  font-weight: bold;
 }
 
 .message p span {
